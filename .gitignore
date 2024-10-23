@@ -1,0 +1,11 @@
+# Binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace files
+/bin/
+# Dependency directories (remove if you use vendoring)
+vendor/
